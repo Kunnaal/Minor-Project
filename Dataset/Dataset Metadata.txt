@@ -1,0 +1,2 @@
+Link: https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format/versions/5?resource=download
+File name: A_Z Handwritten Data.csv
